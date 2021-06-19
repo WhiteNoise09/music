@@ -2,3 +2,18 @@
     background-color: blue;
     display: none;
 }
+
+#top-search {
+  width: 100%;
+  height: 10vh;
+  background: grey;
+  display: flex;
+}
+
+#search-bar {
+  margin: auto;
+  display: block;
+  width: 90%;
+  height: 70%;
+  background: white;
+}
